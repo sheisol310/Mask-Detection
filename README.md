@@ -15,9 +15,10 @@ First of all, I'd like to give credits to the following projects that I borrow c
 |:---:|----|
 | [opencv](https://github.com/opencv/opencv) | [LICENSE](https://github.com/opencv/opencv/blob/master/LICENSE) |
 
+## source of program 
 Youtuber Channel : [BrainMentors Pvt Ltd](https://www.youtube.com/watch?v=csYkGeJ5bCM&ab_channel=BrainMentorsPvtLtd) <br>
 
-Project Collaborator： <br>
+## Project Collaborator： <br>
 CS Student [Linkedin－Gene](https://www.linkedin.com/in/ching-kung-lin-878633196/) <br>
 Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com/channel/UCA1cA4FFXrMivctVkcedavg) 
 
