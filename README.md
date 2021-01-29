@@ -1,9 +1,7 @@
-# Please Read It Carefully To Know How To Run This Program
+# Please Read It Carefully And Get to Know How To Run This Program
 
-# Mask-Detection-Version1
-Use camera and Python machine learning algorithms to detect if users wear a mask!
-
-# This is a working-together project: Gene & Akria
+# Mask-Detection-Version1 (working-together project: Gene & Akria)
+**Use camera and Python machine learning algorithms to detect if users wear a mask!**
 
 Youtube Video for coding explnation (click the picture):
 [![test](https://github.com/sheisol310/Mask-Detection-Version1/blob/main/images/mask%20detectioin%20thumbnail.jpeg?raw=true)](https://www.youtube.com/watch?v=onPlFVkLLxQ&list=PLAw64YPvAOFVYBmnczovFdXnxbfM3zvg0&index=1&t=5s&ab_channel=ProjectV.AkiraCh.%E3%82%A2%E3%82%AD%E3%83%A9)
