@@ -63,7 +63,7 @@ If you run the program successfully, you should see following:
   <br>
 </p>
 
-## 4. Tutroal Video
+## 4. Tutorial Video
 **If you are still confused about how to run the program or any codes in the program, check the video below : <br>**
 []()
 # Conclusion
