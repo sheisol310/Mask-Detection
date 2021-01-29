@@ -24,9 +24,11 @@ Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com
 
 # Installation
 ## Software
-*  Python3.9 (installation via [Pycharm](https://www.jetbrains.com/pycharm/) is recommended)
-*  Required Python libraries<br>
+**Python3.9 (installation via [Pycharm](https://www.jetbrains.com/pycharm/) is recommended)**
+**Required Python libraries<br>**
   **You can type, for example `pip install Pillow	8.1.0` in the terminal to install the packages<br>**
+  <br>
+  Requirements : <br>
   *Pillow	8.1.0	<br>
   *cycler	0.10.0	<br>
   *joblib	1.0.0	<br>
