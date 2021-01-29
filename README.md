@@ -1,4 +1,4 @@
-# Please Read It thoroughly To Know How To Run This Program
+# Please Read It Carefully To Know How To Run This Program
 
 # Mask-Detection-Version1
 Use camera and Python machine learning algorithms to detect if users wear a mask!
