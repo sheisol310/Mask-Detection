@@ -62,6 +62,9 @@ Within 10 seconds, the machine learning will be done, and the camera will be tur
   <br>
 </p>
 
+## 4. Tutroal Video
+**If you are still confused about how to run the program or any codes in the program, check the video below : <br>
+[]()
 # Conclusion
 ## Advantages : Quick data collection to support machine learning.<br>
 ## Disadvantages : Wrong data collection due to face misdetection, which will give wrong data to machine learning.<br>
