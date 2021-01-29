@@ -1,4 +1,4 @@
-#Dectect if you wear a mask after programs did machine learning with face data
+#Dectect if you wear a mask after the program did machine learning with face data
 import cv2 as cv
 import numpy as np
 from sklearn.svm import SVC #svm - Support Vector Machine; SVC - Support Vector Classsification
@@ -10,8 +10,8 @@ from sklearn.decomposition import PCA #principal component analysis, to perform 
 with_mask = np.load("with_mask.npy")
 without_mask = np.load("without_mask.npy")
 
-#before reshape: (200, 50, 50, 3) = 200 pictures, each picture's x = 50, y = 50, with 3 channels
-#after reshape : (200, 50*50*3)  x = 200, y = 50*50*3 => a big picture with size 200*7500
+#before reshape: (400, 50, 50, 3) = 200 pictures, each picture's x = 50, y = 50, with 3 channels
+#after reshape : (400, 50*50*3)  x = 200, y = 50*50*3 => a big picture with size 200*7500
 # reason: to assign
 with_mask = with_mask.reshape(400, 50*50*3)
 without_mask = without_mask.reshape(400, 50*50*3)
