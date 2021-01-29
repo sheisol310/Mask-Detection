@@ -5,8 +5,8 @@ Use camera and Python machine learning algorithms to detect if users wear a mask
 
 This is a working-together project: Gene & Akria
 
-Youtube Video for coding explnation:
-[![test](https://github.com/sheisol310/Mask-Detection-Version1/blob/main/images/mask%20detectioin%20thumbnail.jpeg?raw=true)](https://www.youtube.com/channel/UCA1cA4FFXrMivctVkcedavg)
+Youtube Video for coding explnation (click the picture):
+[![test](https://github.com/sheisol310/Mask-Detection-Version1/blob/main/images/mask%20detectioin%20thumbnail.jpeg?raw=true)](https://www.youtube.com/watch?v=onPlFVkLLxQ&list=PLAw64YPvAOFVYBmnczovFdXnxbfM3zvg0&index=1&t=5s&ab_channel=ProjectV.AkiraCh.%E3%82%A2%E3%82%AD%E3%83%A9)
 --------------------------------------------------------------------------------
 # Credits
 First of all, I'd like to give credits to the following projects that I borrow code from:
@@ -65,7 +65,7 @@ If you run the program successfully, you should see following:
 
 ## 4. Tutorial Video
 **If you are still confused about how to run the program or any codes in the program, check the video below : <br>**
-[]()
+[Project Demonstration: Mask Detection Version.1 filmed by Gene](https://www.youtube.com/watch?v=6DYBsyY_49Q&list=PLAw64YPvAOFVYBmnczovFdXnxbfM3zvg0&index=2&ab_channel=ProjectV.AkiraCh.%E3%82%A2%E3%82%AD%E3%83%A9)
 # Conclusion
 ## Advantages : Quick data collection to support machine learning.<br>
 ## Disadvantages : Wrong data collection due to face misdetection, which will give wrong data to machine learning.<br>
