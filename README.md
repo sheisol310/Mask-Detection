@@ -1,5 +1,5 @@
 # Mask-Detection-Version1
-Use camera and Python machine learning algorithms to detect to see if person wears a mask!
+Use camera and Python machine learning algorithms to detect if users wear a mask!
 
 This is a working-together project: Gene & Akria
 
@@ -11,11 +11,12 @@ First of all, I'd like to give credits to the following projects that I borrow c
 
 | Project | LICENSE |
 |:---:|----|
-| [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation) | [LICENSE](licenses/LICENSE.head-pose-estimation) |
-| [face-alignment](https://github.com/1adrianb/face-alignment) | [LICENSE](licenses/LICENSE.face-alignment) |
-| [GazeTracking](https://github.com/antoinelame/GazeTracking) | [LICENSE](licenses/LICENSE.GazeTracking) |
+| [opencv](https://github.com/opencv/opencv) | [LICENSE](licenses/LICENSE.head-pose-estimation) |
+| [BrainMentors Pvt Ltd](https://www.youtube.com/watch?v=csYkGeJ5bCM&ab_channel=BrainMentorsPvtLtd) | [LICENSE](licenses/LICENSE.face-alignment) |
 
-And the virtual character [unity-chan](http://unity-chan.com/) © UTJ/UCL.
+Project Collaborator: 
+[Gene-Linkedin](https://www.linkedin.com/in/ching-kung-lin-878633196/)
+And Vtuber [ProjectV. Akira Ch. アキラ](https://www.youtube.com/channel/UCA1cA4FFXrMivctVkcedavg) 
 
 # Installation
 
