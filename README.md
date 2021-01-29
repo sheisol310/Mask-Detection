@@ -68,8 +68,8 @@ If you run the program successfully, you should see following:
 ## Advantages : Quick data collection to support machine learning.<br>
 ## Disadvantages : Wrong data collection due to face misdetection, which will give wrong data to machine learning.<br>
 ## Solution : Create database with correct face data (with and without mask) in order to increase the acurracy of dectection. <br>
-  **To create database, instread of collecting face data with camera, setting two files "with mask" and "without mask" with all correct images.<br>
-  ** The Solution will be tested and applied in ongoing Project2 (Mask Detection Verion2)<br>
+  **To create database, instread of collecting face data with camera, setting two files "with mask" and "without mask" with all correct images.<br>**
+  **The Solution will be tested and applied in ongoing Project2 (Mask Detection Verion2)<br>**
   
 # License
 [MIT License](LICENSE.txt)
