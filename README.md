@@ -4,7 +4,7 @@ Use camera and Python machine learning algorithms to detect to see if person wea
 This is a working-together project: Gene & Akria
 
 Youtube Video for coding explnation:
-[test](https://github.com/sheisol310/Mask-Detection-Version1/blob/main/images/thumbnail_github_mask%20ver1.jpeg?raw=true)
+[![test](https://github.com/sheisol310/Mask-Detection-Version1/blob/main/images/thumbnail_github_mask%20ver1.jpeg?raw=true)]
 --------------------------------------------------------------------------------
 # Credits
 First of all, I'd like to give credits to the following projects that I borrow code from:
