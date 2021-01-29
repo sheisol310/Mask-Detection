@@ -44,7 +44,7 @@ Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com
 
 # How to Start
 ## 1.  Collect Face Data<br>
-**suggestion: To reduce misrecognition of face detection, you may want to use your camera with a clear background. <br>**
+**Suggestion: To reduce the face misdetection, you may stay at the place with a clear background behind while using your camera. <br>**
   a. Run file "Collect Face Data-Without Mask" to collect 400 pictures of your face with no mask, and the file "wihout mask.npy" will be created.<br> 
   b. Then wear your mask(Black Mask is hard to be detected), run file "Collect Face Data-Wear Mask" to collect 400 pictures of your face with mask, 
      and the file "with mask.npy" will be created.<br>
