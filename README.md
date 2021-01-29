@@ -44,18 +44,17 @@ Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com
 
 # How to Start
 ## 1.  Collect Face Data<br>
-**suggestion: To reduce misrecognition of face detection, you may want to use your camera with a clear background. <br>
+**suggestion: To reduce misrecognition of face detection, you may want to use your camera with a clear background. <br>**
   a. Run file "Collect Face Data-Without Mask" to collect 400 pictures of your face with no mask, and the file "wihout mask.npy" will be created.<br> 
   b. Then wear your mask(Black Mask is hard to be detected), run file "Collect Face Data-Wear Mask" to collect 400 pictures of your face with mask, 
      and the file "with mask.npy" will be created.<br>
 
 ## 2.  Begin to dectect<br>
-**suggestion: To reduce misrecognition of face detection, you may want to use your camera with a clear background. <br>
 After collecting face data, run file "Detect Mask." The program will do machine learning by file "wihout mask.npy" and "with mask.npy." <br>
 Within 10 seconds, the machine learning will be done, and the camera will be turned on again, then you can begin to put on / take off your mask to test if it works. <br>
 
 ## 3. Demonstration
-**If you run the program successfully, you should see following:
+If you run the program successfully, you should see following:
 <p align="center">
   <img src="images/detection result.gif", width="45%">
   <img src="images/mask result .gif", width="45%">
@@ -63,7 +62,7 @@ Within 10 seconds, the machine learning will be done, and the camera will be tur
 </p>
 
 ## 4. Tutroal Video
-**If you are still confused about how to run the program or any codes in the program, check the video below : <br>
+**If you are still confused about how to run the program or any codes in the program, check the video below : <br>**
 []()
 # Conclusion
 ## Advantages : Quick data collection to support machine learning.<br>
