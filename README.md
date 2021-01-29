@@ -52,5 +52,10 @@ Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com
 After collecting face data, run file "Detect Mask." The program will do machine learning by file "wihout mask.npy" and "with mask.npy." 
 Within 10 seconds, the machine learning will be done, and the camera will be turned on again, then you can begin to put on / take off your mask to test if it works. 
 
+## 3. Demonstration
+**If you run the program successfully, you should see following:
+<img src="images/detection result.gif", width="45%">
+<img src="images/mask result .gif", width="45%">
+
 # License
 [MIT License](LICENSE)
