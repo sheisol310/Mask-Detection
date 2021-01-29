@@ -24,25 +24,25 @@ Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com
 
 # Installation
 ## Software
-**Python3.9 (installation via [Pycharm](https://www.jetbrains.com/pycharm/) is recommended)**
-**Required Python libraries<br>**
-  **You can type, for example `pip install Pillow	8.1.0` in the terminal to install the packages<br>**
-  <br>
-  Requirements : <br>
-  *Pillow	8.1.0	<br>
-  *cycler	0.10.0	<br>
-  *joblib	1.0.0	<br>
-  *kiwisolver	1.3.1	<br>
-  *numpy	1.19.5	<br>
-  *opencv-python	4.5.1.48	<br>
-  *pip	21.0	<br>
-  *pyparsing	2.4.7	<br>
-  *python-dateutil	2.8.1	<br>
-  *scikit-learn	0.24.1	<br>
-  *scipy	1.6.0	<br>
-  *setuptools	52.0.0	<br>
-  *six	1.15.0	<br>
-  *threadpoolctl	2.1.0	<br>
+  **Python3.9 (installation via [Pycharm](https://www.jetbrains.com/pycharm/) is recommended)**<br>
+  **Required Python libraries<br>**
+    **You can type, for example `pip install Pillow	8.1.0` in the terminal to install the packages<br>**
+    <br>
+    Requirements : <br>
+    *Pillow	8.1.0	<br>
+    *cycler	0.10.0	<br>
+    *joblib	1.0.0	<br>
+    *kiwisolver	1.3.1	<br>
+    *numpy	1.19.5	<br>
+    *opencv-python	4.5.1.48	<br>
+    *pip	21.0	<br>
+    *pyparsing	2.4.7	<br>
+    *python-dateutil	2.8.1	<br>
+    *scikit-learn	0.24.1	<br>
+    *scipy	1.6.0	<br>
+    *setuptools	52.0.0	<br>
+    *six	1.15.0	<br>
+    *threadpoolctl	2.1.0	<br>
 
 # How to Start
 ## 1.  Collect Face Data<br>
