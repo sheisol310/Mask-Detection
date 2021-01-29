@@ -4,8 +4,7 @@ Use camera and Python machine learning algorithms to detect to see if person wea
 This is a working-together project: Gene & Akria
 
 Youtube Video for coding explnation:
-[![](images/thumbnail_github_mask ver1.jpeg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
-[![thumbnail_github_mask ver1](images/thumbnail_github_mask ver1.jpeg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
+images/thumbnail_github_mask ver1.jpeg
 --------------------------------------------------------------------------------
 # Credits
 First of all, I'd like to give credits to the following projects that I borrow code from:
