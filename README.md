@@ -13,8 +13,9 @@ First of all, I'd like to give credits to the following projects that I borrow c
 
 | Project | LICENSE |
 |:---:|----|
-| [opencv](https://github.com/opencv/opencv) | [LICENSE](licenses/LICENSE.head-pose-estimation) |
-| [BrainMentors Pvt Ltd](https://www.youtube.com/watch?v=csYkGeJ5bCM&ab_channel=BrainMentorsPvtLtd) | [LICENSE](licenses/LICENSE.face-alignment) |
+| [opencv](https://github.com/opencv/opencv) | [LICENSE](https://github.com/opencv/opencv/blob/master/LICENSE) |
+
+Youtuber Channel : [BrainMentors Pvt Ltd](https://www.youtube.com/watch?v=csYkGeJ5bCM&ab_channel=BrainMentorsPvtLtd) <br>
 
 Project Collaborator： <br>
 CS Student [Linkedin－Gene](https://www.linkedin.com/in/ching-kung-lin-878633196/) <br>
@@ -68,4 +69,4 @@ Within 10 seconds, the machine learning will be done, and the camera will be tur
   ** The Solution will be tested and applied in ongoing Project2 (Mask Detection Verion2)<br>
   
 # License
-[MIT License](LICENSE)
+[MIT License](LICENSE.txt)
