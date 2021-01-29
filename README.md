@@ -54,8 +54,12 @@ Within 10 seconds, the machine learning will be done, and the camera will be tur
 
 ## 3. Demonstration
 **If you run the program successfully, you should see following:
-<img src="images/detection result.gif", width="45%">
-<img src="images/mask result .gif", width="45%">
+<p align="center">
+  <img src="images/detection result.gif", width="45%">
+  <img src="images/mask result .gif", width="45%">
+  <br>
+</p>
+
 
 # License
 [MIT License](LICENSE)
