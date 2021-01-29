@@ -15,7 +15,7 @@ First of all, I'd like to give credits to the following projects that I borrow c
 | [BrainMentors Pvt Ltd](https://www.youtube.com/watch?v=csYkGeJ5bCM&ab_channel=BrainMentorsPvtLtd) | [LICENSE](licenses/LICENSE.face-alignment) |
 
 Project Collaborator： <br>
-[Linkedin－Gene](https://www.linkedin.com/in/ching-kung-lin-878633196/) <br>
+CS Student [Linkedin－Gene](https://www.linkedin.com/in/ching-kung-lin-878633196/) <br>
 Vtuber [Youtube Channel－ProjectV. Akira Ch. アキラ](https://www.youtube.com/channel/UCA1cA4FFXrMivctVkcedavg) 
 
 # Installation
