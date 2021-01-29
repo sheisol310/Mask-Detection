@@ -1,11 +1,10 @@
 # Mask-Detection-Version1
-# VTuber_Unity
-Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
+Use camera and Python machine learning algorithms to detect to see if person wears a mask!
 
-This is part of the [OpenVTuberProject](https://github.com/kwea123/OpenVTuberProject), which provides many toolkits for becoming a VTuber.
+This is a working-together project: Gene & Akria
 
-Youtube Playlist (Chinese) (Covers videos 1-4):
-[![teaser](images/teaser.jpg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
+Youtube Video for coding explnation:
+[![thumbnail_github_mask ver1](images/thumbnail_github_mask ver1.jpeg)](https://www.youtube.com/playlist?list=PLDV2CyUo4q-JFGrpG595jMdWZLwYOnu4p)
 
 --------------------------------------------------------------------------------
 # Credits
